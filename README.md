@@ -1,4 +1,3 @@
 # Apna-college-
 This is My First Git Repository **
-
-Author - Sandy 
+Author -- Sandy Bana 
